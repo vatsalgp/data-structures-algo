@@ -1,2 +1,2 @@
 # data-structures
-Data Structures implemented using C++
+Data Structures and Algorithms implemented using C++
