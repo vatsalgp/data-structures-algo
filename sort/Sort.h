@@ -10,6 +10,7 @@ class Sort {
 
   private:
     static void Swap(int &x, int &y);
+    static int Partition(int *a, int l, int h);
     static void _Quick(int *a, int l, int h);
     static void _Merge(int *a, int l, int h);
 };
